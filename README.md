@@ -74,7 +74,7 @@ Gosto de criar artes, explorar novas formas de comunicação, criar soluções p
     height="150"
   />
   <img 
-    src="https://github.com/dev-anthonyjesus/gif/blob/main/2025.Logo%20-%20Minha%20Identidade%20Visual%20.gif?raw=true" 
+    src="[https://github.com/dev-anthonyjesus/gif/blob/main/2025.Logo%20-%20Minha%20Identidade%20Visual%20.gif?raw=true](https://github.com/dev-anthonyjesus/files-profile/blob/main/2025.Logo%20-%20Minha%20Identidade%20Visual%20%20(1).png?raw=true)" 
     alt="Logo AJ"
     height="150"
     style="margin-left: 20px;"

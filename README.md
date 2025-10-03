@@ -67,7 +67,7 @@ Gosto de criar artes, explorar novas formas de comunicação, criar soluções p
 
 ### 📊 Dashboard
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=dev-anthonyjesus&show_icons=true&title_color=baff7c&icon_color=baff7c&text_color=ffffff&bg_color=00000000" 
     alt="Anthony Jesus' GitHub Stats"
@@ -77,6 +77,6 @@ Gosto de criar artes, explorar novas formas de comunicação, criar soluções p
     src="https://github.com/dev-anthonyjesus/gif/blob/main/2025.Logo%20-%20Minha%20Identidade%20Visual%20.gif?raw=true" 
     alt="Logo AJ"
     height="150"
+    style="margin-left: 20px;"
   />
 </p>
-

@@ -5,7 +5,7 @@
 Sou de Salvador, Bahia tenho 19 anos, sou estudante de Psicologia na UFBA e pesquisador e cientista de dados do [GammaLab](https://www.linkedin.com/company/gamma-lab/posts/?feedView=all) no Departamento de Engenharia Química (UFBA).  
 Me interesso por **psicometria, análise de dados e inteligência artificial**, unindo tecnologia e comportamento humano.  
 
-Atuo também como Diretor de Comunicação & Marketing no coletivo [**Herdata**](https://www.linkedin.com/company/109134076/admin/dashboard/), um laboratório estudantil liderado por mulheres, focado em **ciência de dados e justiça social**.  
+Atuo também como Diretor de Comunicação & Marketing no coletivo [**Herdata**](https://www.linkedin.com/company/109134076/admin/dashboard/) um laboratório estudantil liderado por mulheres, focado em **ciência de dados e justiça social**.  
 Gosto de criar artes, explorar novas formas de comunicação, criar soluções para problemas e correr maratonas em Salvador.  
 
 ---
